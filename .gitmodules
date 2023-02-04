@@ -1,0 +1,6 @@
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/EspDDNS"]
+	path = components/EspDDNS
+	url = git@github.com:amitesh-singh/EspDDNS.git
